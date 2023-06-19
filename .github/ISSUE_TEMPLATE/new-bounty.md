@@ -2,7 +2,7 @@
 name: New Bounty
 about: Propose a bounty for Waku
 title: "[BOUNTY] <Title of the bounty>"
-labels: open
+labels: ''
 assignees: hackyguru
 
 ---
