@@ -1,6 +1,6 @@
 # Waku Bounties
 
-In an effort to make the Waku community more inclusive towards contribution - we encourage the community members to get rewarded by completing bounties.
+In an effort to make the Waku community more inclusive towards contribution - we encourage the community members to get rewarded by completing bounties. Bounties are a way to incecntivize community contributions for certain tasks that can positively impact Waku.
 
 
 ### Available bounties
