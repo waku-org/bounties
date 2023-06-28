@@ -9,7 +9,7 @@ assignees: hackyguru
 
 ### Bounty summary
 
-<!-- Explain your bounty's executive summary that precisely describes the aim  -->
+<!-- Explain your bounty's executive summary that precisely mentions it's outline  -->
 
 ### Impact
 
