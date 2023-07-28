@@ -6,13 +6,13 @@ Bounties are a way to incentivize community contributions for certain tasks that
 
 ### Available bounties
 
-The currently available bounties are listed [here](https://github.com/waku-org/bounties/labels/approved).
-All the bounties with 'open' and 'approved' labels are available.
+The currently available bounties are listed [here](https://github.com/waku-org/bounties/labels/open).
+All the bounties with 'open' labels are available.
 
 
 ### Applying for a bounty
 
-Bounty applications are done through GitCoin (WIP).
+WIP
 
 
 ### Propose a new bounty
