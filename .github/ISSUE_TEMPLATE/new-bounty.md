@@ -28,6 +28,12 @@ Thank you for your patience and understanding.
 
 <!-- Mention the reward for successfully completing the bounty -->
 
+## Timeframe to Completion
+
+<!-- timeframe to avoid hogging of bounties. Change as appropriate. -->
+
+Once the application is approved, the result must be submitted within 30 days.
+
 ## Application Evaluation
 
 <!-- Criteria we will use to select the hacker that will do the bounty -->
