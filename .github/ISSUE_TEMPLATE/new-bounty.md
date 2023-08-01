@@ -28,6 +28,8 @@ Thank you for your patience and understanding.
 
 <!-- Mention the reward for successfully completing the bounty -->
 
+XXX DAI
+
 ## Timeframe to Completion
 
 <!-- timeframe to avoid hogging of bounties. Change as appropriate. -->
