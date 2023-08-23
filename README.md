@@ -32,6 +32,8 @@ It is recommended for the applicant to wait until this step before starting work
 5. To submit the work, the applicant must comment on the bounty with an URL to the deliverables.
 6. Work will then be reviewed by the Waku team and if deliverables match acceptance criteria, payment will be handled the finance team.
 
+We recommend applicants to reach out to the team on https://discord.waku.org/ for questions, support or to discuss the bounty.
+If any issues are encountered during work, we encourage application to either reach out on Discord or open a GitHub issue on the right Waku SDK repository.
 
 ## Propose a new bounty
 
