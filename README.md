@@ -18,7 +18,7 @@ Feel free to apply for a bounty once it is labelled as [`open`](https://github.c
 ```
 Plan: <describe how you intend to tackle the work, highlight any risk you perceived and any result of preliminary research>
 Track record: <Links to work demonstrating your track record has a hacker, especially in the Waku ecosystem>
-Start date: <clarify when you can start the work and whether you can meet the proposed timeline>
+Timeline: <clarify when you can start the work and whether you can meet the proposed timeline>
 ```
 
 2. @fryorcraken or @hackyguru will review the applications and comment who has been selected to work on the bounty.
