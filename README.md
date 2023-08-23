@@ -21,7 +21,7 @@ Track record: <Links to work demonstrating your track record has a hacker, espec
 Timeline: <clarify when you can start the work and whether you can meet the proposed timeline>
 ```
 
-2. @fryorcraken or @hackyguru will review the applications and comment who has been selected to work on the bounty.
+2. [@fryorcraken](https://github.com/fryorcraken) or [@hackyguru](https://github.com/hackyguru) will review the applications and comment who has been selected to work on the bounty.
 
 
 3. Selected applicant must fill in this [Status Bounty Programme Typeform](https://34z6hn3eyj7.typeform.com/to/kIQjJA0f) to share information needed for legal and financial reasons such as Legal name, country of residence, business address and payment details.
