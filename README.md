@@ -24,7 +24,7 @@ Timeline: <clarify when you can start the work and whether you can meet the prop
 2. [@fryorcraken](https://github.com/fryorcraken) or [@hackyguru](https://github.com/hackyguru) will review the applications and comment who has been selected to work on the bounty.
 
 
-3. Selected applicant must fill in this [Status Bounty Programme Typeform](https://34z6hn3eyj7.typeform.com/to/kIQjJA0f) to share information needed for legal and financial reasons such as Legal name, country of residence, business address and payment details, as well as agree to these [terms and conditions](Terms-and-Conditions).
+3. Selected applicant must fill in this [Status Bounty Programme Typeform](https://34z6hn3eyj7.typeform.com/to/kIQjJA0f) to share information needed for legal and financial reasons such as Legal name, country of residence, business address and payment details, as well as agree to these [terms and conditions](Terms-and-Conditions.md).
 
 4. Once information is reviewed, the bounty will be marked as [`assigned`](https://github.com/waku-org/bounties/issues?q=is%3Aopen+label%3Aassigned+sort%3Aupdated-desc) and the applicant can start the work.
 It is recommended for the applicant to wait until this step before starting work, to ensure there is no issue with payment.
