@@ -21,11 +21,15 @@ By participating in the Bounty Programme, you shall comply with the Bounty T&Cs 
 
 As an Participant, you are obliged to conduct yourself in the following manner:
 
-- (i) You shall comply with all applicable laws, rules, regulations and policies in your jurisdiction;
-- (ii) You shall not engage in, promote, or contribute to any activities in violation of applicable law or violation of legal rights of any other individual or third party, including the rights of Status;
-- (iii) You shall not use spam, or other unsolicited promotional methods, or unethical or unwanted commercial content; engage in phishing, spoofing, or similar fraudulent acts; spread misinformation or misleadingly impersonate another person or company; stalk, bully, harass or abuse another individual in any way; violate the privacy rights of others or engage in Status’ view, any other objectionable behaviour or activity;
-- (iv) You shall not copy, distribute, sell, licence, create derivative works from, or in any other way exploit any copyrighted material, trademarks, or any intellectual property rights of others; or
-- (v) You shall not publish, host, or promote any Status or other material that misrepresents your relationship with Status or implies that you are anything more than a Participant.
+(i) You shall comply with all applicable laws, rules, regulations and policies in your jurisdiction;
+
+(ii) You shall not engage in, promote, or contribute to any activities in violation of applicable law or violation of legal rights of any other individual or third party, including the rights of Status;
+
+(iii) You shall not use spam, or other unsolicited promotional methods, or unethical or unwanted commercial content; engage in phishing, spoofing, or similar fraudulent acts; spread misinformation or misleadingly impersonate another person or company; stalk, bully, harass or abuse another individual in any way; violate the privacy rights of others or engage in Status’ view, any other objectionable behaviour or activity;
+
+(iv) You shall not copy, distribute, sell, licence, create derivative works from, or in any other way exploit any copyrighted material, trademarks, or any intellectual property rights of others; or
+
+(v) You shall not publish, host, or promote any Status or other material that misrepresents your relationship with Status or implies that you are anything more than a Participant.
 
 ## Participant rewards
 
@@ -42,9 +46,11 @@ If you are eligible for a Bounty, Status will pay you such Bounty in crypto-toke
 Status owns all copyrights, domains, trade dress (look and feel), design rights and themes, trademarks, logos, graphics, and other intellectual property rights associated with the Status brand (“Status Intellectual Property”), and you will not use such Status Intellectual Property except as otherwise explicitly authorised in writing by Status.
 
 To the extent you have been authorised by Status to make use of such Status Intellectual Property in your role as a Participant, you shall comply with any Status guidelines or direction in its use. In any event, you shall not use any Status Intellectual Property or refer to Status, its products, business, owners, employees or contractors in any manner that is disparaging, misleading, obscene, or that otherwise portrays any of the foregoing in a negative light.
-Independent contractor
+
+## Independent contractor
 
 You are providing your Contributions to Status in your personal capacity as an independent contractor and not as an employee of Status.
+
 Nothing in these Bounty T&Cs will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between you and Status. You will have no authority to make or accept any offers or representations on our behalf. You will not make any statement that could be reasonably understood to contradict anything in this clause.
 
 As an independent contractor, you are free at all times to provide your services to persons or businesses other than Status.
@@ -53,7 +59,8 @@ As an independent contractor, you are free at all times to provide your services
 
 All and any rights including the patrimonial copyrights pertaining to the documentation prepared or in consideration or resulting from the Contributions, and any and all inventions, discoveries, developments and innovations conceived by you during your participation in the Bounty Programme, will become the exclusive ownership of the Status as of the date each of such document has been approved by Status or each of such inventions, discoveries, developments and innovations has been conceived, the corresponding payment having been deemed by you and Status as included in the Bounty and you hereby assign all right, title, and interest in the same to Status. To the extent required, you shall reasonably assist Status with any such assignment.
 
-Representations and warranties
+## Representations and warranties
+
 You hereby represent and warrant to Status that:
 
 (i) You have the full right, power, and authority to enter into and be bound by the Bounty T&Cs and to perform your obligations under these Bounty T&Cs, without the approval or consent of any other party;
@@ -76,7 +83,7 @@ You shall indemnify and hold harmless Status, against any and all damage, loss, 
 
 ## Limitation of Liability
 
-Status will not be liable to you for any loss or damages suffered by you as a result of your participation in the Bounty Programme, provided that such action or omission did not constitute gross negligence, wilful misconduct or wilful default. Without prejudice to the aforementioned, the maximum aggregate liability of Status under the Bounty T&Cs whether in contract or otherwise, will not exceed the amount of the Fee which Status may have paid to you prior to the event causing such liability. Status will not be liable to you for any indirect or consequential loss.
+Status will not be liable to you for any loss or damages suffered by you as a result of your participation in the Bounty Programme, provided that such action or omission did not constitute gross negligence, wilful misconduct or wilful default. Without prejudice to the aforementioned, the maximum aggregate liability of Status under the Bounty T&Cs whether in contract or otherwise, will not exceed the amount of the Bounty which Status may have paid to you prior to the event causing such liability. Status will not be liable to you for any indirect or consequential loss.
 
 ## Confidentiality
 
@@ -84,10 +91,13 @@ Except when necessary for accomplishing your obligations under the Bounty T&Cs, 
 
 These provisions regarding confidentiality will not be applicable for:
 
-- (i) information already made public or being at the public disposal at the present agreement signing or became public after the present agreement signing;
-- (ii) information independently developed by you without use of Status’ confidential information
-- (iii) information furnished to you by a third party as a matter of right and without restriction on disclosure; or
-- (iv) legally compelled disclosures of such confidential information, upon which you shall then notify Status of such disclosure and take steps to limit the disclosure as legally required.
+(i) information already made public or being at the public disposal at the present agreement signing or became public after the present agreement signing;
+
+(ii) information independently developed by you without use of Status’ confidential information
+
+(iii) information furnished to you by a third party as a matter of right and without restriction on disclosure; or
+
+(iv) legally compelled disclosures of such confidential information, upon which you shall then notify Status of such disclosure and take steps to limit the disclosure as legally required.
 
 ## Termination
 
