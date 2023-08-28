@@ -23,6 +23,7 @@ Disclaimer: Waku is **experimental**, you may find blocking issues while develop
 Thank you for your patience and understanding.
 
 **Your participation in this bounty is subject to your acceptance of our terms and conditions.**
+Please see waku-org/bounties#applying-for-a-bounty for details.
 
 ## Rewards
 
