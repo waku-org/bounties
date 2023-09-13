@@ -63,6 +63,8 @@ To ensure you are selected for this bounty, provide the following information:
 
 <!-- Explain the guidelines, rules and other factors that help determine whether the bounty is complete -->
 
+- Must contain instructions on how to build and run the software.
+
 ### Resources
 
 <!--
