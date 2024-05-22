@@ -1,5 +1,9 @@
 # Waku Bounties
 
+**All bounties are paused until new SDKs are released**
+
+---
+
 In an effort to make the Waku community more inclusive towards contribution - we encourage the community members to get rewarded by completing bounties.
 Bounties are a way to incentivize community contributions for certain tasks that can positively impact Waku.
 
